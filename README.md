@@ -140,7 +140,7 @@ Upload the code using Arduino IDE
 Place robot on a line track
 Power ON the robot
 
-📸 Demo
+## 📸 Demo
 
 <img width="704" height="1241" alt="WhatsApp Image 2026-07-10 at 12 27 41 AMs" src="https://github.com/user-attachments/assets/72f95b30-0480-4add-baeb-cef9d21b40d2" />
 
