@@ -126,21 +126,22 @@ bool detectObstacle() {<img width="704" height="1241" alt="WhatsApp Image 2026-0
     return (distance > 0 && distance <= 10);
 }
 
+```
 
-Movement Functions
+## Movement Functions
 forword() → Move forward
 turnLeft() → Turn left
 turnRight() → Turn right
 sharpRight() → Sharp turn when line lost
 Stop() → Stop all motors
 
-▶️ How to Run
+## How to Run
 Connect all components as per pin configuration
 Upload the code using Arduino IDE
 Place robot on a line track
 Power ON the robot
 
-## 📸 Demo
+##  Demo Pic
 
 <img width="704" height="1241" alt="WhatsApp Image 2026-07-10 at 12 27 41 AMs" src="https://github.com/user-attachments/assets/72f95b30-0480-4add-baeb-cef9d21b40d2" />
 
